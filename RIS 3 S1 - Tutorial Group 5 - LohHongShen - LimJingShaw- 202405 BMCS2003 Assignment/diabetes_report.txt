@@ -1,0 +1,14 @@
+Glucose: 89.0
+Blood Pressure: 66.0
+Skin Thickness: 23.0
+Insulin: 94.0
+Weight: 50.0 kg
+Height: 183.0 cm
+BMI: 14.93
+Diabetes Pedigree Function: 0.167
+Age: 22 years
+Pregnancies: 1
+Prediction: Not Diabetic
+
+Your readings are normal! Maintain a healthy lifestyle.
+Always consult a healthcare provider for personalized advice.
